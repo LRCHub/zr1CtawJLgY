@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Moonlight",
+  "base_artist": "NGONG",
+  "createdAt": "2025-12-10T07:30:28.859044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancin' In the Moonlight",
+      "artist": "Chris Lane feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/01_Dancin'_In_the_Moonlight_Chris_Lane_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/02_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dancing In the Moonlight",
+      "artist": "Jubël feat. NEIMY",
+      "has_synced": true,
+      "path": "select/03_Dancing_In_the_Moonlight_Jubël_feat._NEIMY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Big Wheels In The Moonlight",
+      "artist": "Dan Seals",
+      "has_synced": true,
+      "path": "select/04_Big_Wheels_In_The_Moonlight_Dan_Seals.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonlight Lounge",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/05_Moonlight_Lounge_Alabama.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Runnin' Outta Moonlight",
+      "artist": "Randy Houser",
+      "has_synced": true,
+      "path": "select/06_Runnin'_Outta_Moonlight_Randy_Houser.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shadows In The Moonlight",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/07_Shadows_In_The_Moonlight_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dancing in the Moonlight (It's Caught Me in Its Spotlight)",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/08_Dancing_in_the_Moonlight_(It's_Caught_Me_in_Its_Spotlight)_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Moonlight Skies",
+      "artist": "Aceyalone feat. Goapele",
+      "has_synced": false,
+      "path": "select/09_Moonlight_Skies_Aceyalone_feat._Goapele.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aceyalone-Moonlight Skies Ft. Goapele",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/10_Aceyalone-Moonlight_Skies_Ft._Goapele_RJD2.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonlight",
+      "artist": "Lil Xan feat. Charli XCX",
+      "has_synced": true,
+      "path": "select/11_Moonlight_Lil_Xan_feat._Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonlight",
+      "artist": "Lil Xan",
+      "has_synced": false,
+      "path": "select/12_Moonlight_Lil_Xan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moonlight",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_Moonlight_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moonlight on the River",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/14_Moonlight_on_the_River_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonlight (feat. 3House)",
+      "artist": "NGONG",
+      "has_synced": false,
+      "path": "select/pl_01_Moonlight_(feat._3House)_NGONG.txt"
+    }
+  ]
+}
